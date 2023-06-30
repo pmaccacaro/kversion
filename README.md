@@ -9,7 +9,6 @@ with the following format:
 ```yaml
 ---
 binaries:
- - /usr/local/bin/kubectl-1.14.8
  - /usr/local/bin/kubectl-1.14.6
  - /usr/local/bin/kubectl-1.14.5
  - /usr/local/bin/kubectl-1.13.7
